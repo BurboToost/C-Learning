@@ -8,3 +8,5 @@ day 4- Format Spcidiers
 day 5- a) Constants  b)Arithemmatic c) Augmented Assignment Operatos
 day 6- User Input
 day 7- Math Function
+day 8- Circle Circumference
+day 9- Hypotenuse
