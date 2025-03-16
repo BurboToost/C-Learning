@@ -15,3 +15,8 @@ day 9- Hypotenuse
 day 10- a)IF statement
         b)Switch statement
         c)Temperature Converter
+day 11- a)Calculator
+        b)And logical operators
+        c)Or logical operators
+        d)Not logical operators
+        e)Functions
