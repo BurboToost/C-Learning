@@ -21,3 +21,6 @@ day 11- a)Calculator
         d)Not logical operators
         e)Functions
 day 12- Arguments
+da 13- a)Return statement
+       b)Ternary operator
+       c)Function Prototype
