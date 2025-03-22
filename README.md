@@ -26,3 +26,7 @@ day 13- a)Return statement
         c)Function Prototype
 day 14- String Function
 day 15- For loops
+day 16- 
+day 17- a) While loop
+        b) Do While loop
+        c) Nested loop
