@@ -32,3 +32,4 @@ day 17- a) While loop
         c) Nested loop
 day 18- Break vs Continue
 day 19- Arrays
+day 20- Print an array with loop
