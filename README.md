@@ -33,3 +33,11 @@ day 17- a) While loop
 day 18- Break vs Continue
 day 19- Arrays
 day 20- Print an array with loop
+day 21-
+day 22-
+day 23-
+dar 24- a) 2D arrays
+        b) Array of Strings
+        c) Swap the values of 2 variables
+        d) Sort an array of numbers
+        e) Sort an array of characters
