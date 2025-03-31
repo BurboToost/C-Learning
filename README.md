@@ -41,3 +41,6 @@ dar 24- a) 2D arrays
         c) Swap the values of 2 variables
         d) Sort an array of numbers
         e) Sort an array of characters
+day 25- 
+day 26- a) Structs
+        b) Typedef
