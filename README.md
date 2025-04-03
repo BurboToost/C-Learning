@@ -44,3 +44,9 @@ dar 24- a) 2D arrays
 day 25- 
 day 26- a) Structs
         b) Typedef
+day 27-
+day 28-
+day 29-
+day 30- a) Array of Structs
+        b) Enums
+        c) Random Numbers
