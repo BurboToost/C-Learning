@@ -50,3 +50,7 @@ day 29-
 day 30- a) Array of Structs
         b) Enums
         c) Random Numbers
+day 31-
+day 32- a) Number Guessing Game
+        b) Quiz Game
+        c) Bitwise Operator
