@@ -61,3 +61,5 @@ day 36-
 day 37-
 day 38- a) Memory Address
         b) Pointers
+        c) Writing Files
+        d) Reading Files
