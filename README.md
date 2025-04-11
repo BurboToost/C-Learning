@@ -54,3 +54,10 @@ day 31-
 day 32- a) Number Guessing Game
         b) Quiz Game
         c) Bitwise Operator
+day 33-
+day 34-
+day 35-
+day 36-
+day 37-
+day 38- a) Memory Address
+        b) Pointers
